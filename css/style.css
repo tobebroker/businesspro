@@ -947,6 +947,7 @@ ul.social_icon li a:hover {
 
 .copyright a {
     color: #fff;
+    text-decoration: underline !important;
 }
 
 .copyright a:hover {
