@@ -1040,6 +1040,10 @@ ul.social_icon li a:hover {
     display: inline-block;
 }
 
+.lang-flag.es {
+    background: url("../images/flags_sprite.png?v=1") no-repeat -374px -2px;
+}
+
 .lang-flag.en {
     background: url("../images/flags_sprite.png?v=1") no-repeat -394px -2px;
 }
